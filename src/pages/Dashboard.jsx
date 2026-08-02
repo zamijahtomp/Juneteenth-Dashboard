@@ -73,7 +73,7 @@ function Dashboard() {
 
       {/* ── Header ── */}
       <header className="dashboard__header">
-        <h1 className="dashboard__title">✊🏾 Juneteenth & Black Culture Events</h1>
+        <h1 className="dashboard__title">🎈🍾 Upcoming Events and Celebrations</h1>
         <p className="dashboard__subtitle">
           Live event data powered by Ticketmaster — explore Black culture celebrations happening across the US.
         </p>
